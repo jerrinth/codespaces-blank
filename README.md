@@ -32,5 +32,6 @@ Step 4 – After Clicking On This API You Get A New Page So Scroll A Little Bit 
 
 
 OUTPUT FOR THE CODE
-![Screenshot (5)](https://user-images.githubusercontent.com/122423905/211722976-747471f1-e10b-4264-90b6-22a5aa2f38d8.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/122423905/211723224-0f5b3fff-e78c-4b17-9ee9-f214011a1fb6.png)
+
 
