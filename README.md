@@ -28,3 +28,9 @@ Step 4 – After Clicking On This API You Get A New Page So Scroll A Little Bit 
 
 
 ![image](https://user-images.githubusercontent.com/122423905/211722477-a0c909c1-81e1-41fa-a8ef-851ccc8371fe.png)
+
+
+
+OUTPUT FOR THE CODE
+![Screenshot (5)](https://user-images.githubusercontent.com/122423905/211722976-747471f1-e10b-4264-90b6-22a5aa2f38d8.png)
+
